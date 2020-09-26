@@ -2,6 +2,8 @@
 
 A react package that uses parsed initials as placeholders. Can be used as a substitute for absent user profile photo
 
+![](preview.png)
+
 ```
 npm i initials-placeholder-react
 # OR
